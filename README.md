@@ -1,1 +1,1 @@
-# Quick-Commerce-Sales-Analysis-Big_Basket-
+# SQL: Quick_Commerce_Sales_Analysis
